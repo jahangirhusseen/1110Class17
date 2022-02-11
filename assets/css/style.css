@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.custom_form .input-group{
+    margin-bottom: 15px;
+}
+.custom_form{
+    text-align: center;
+}
+.table>tbody {
+    vertical-align: middle;
+}
